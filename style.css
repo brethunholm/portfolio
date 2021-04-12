@@ -14,7 +14,8 @@
 
     --clr-light: #fff;
     --clr-dark: #303030;
-    --clr-accent: #D2EEEB;
+    /* --clr-accent: #D2EEEB; */
+    --clr-accent: #E87360;
 
     --fs-h1: 3rem;
     --fs-h2: 2.25rem;
@@ -245,6 +246,7 @@ header {
 
 .intro__img {
     box-shadow: var(--bs);
+    border-radius: 50%;
 }
 
 @media (min-width:600px) {
