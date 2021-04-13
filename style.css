@@ -249,6 +249,11 @@ header {
     border-radius: 50%;
 }
 
+.home {
+    
+    border-radius: 50%;
+}
+
 @media (min-width:600px) {
     .intro{
         display: grid;
